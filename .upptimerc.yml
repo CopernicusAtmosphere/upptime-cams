@@ -71,6 +71,5 @@ status-website:
     section.live-status > article:nth-of-type(3)::before  { content: "CAMS Services (DEV)"; }
     </style>
 
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
