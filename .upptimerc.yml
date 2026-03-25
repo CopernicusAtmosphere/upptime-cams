@@ -35,13 +35,13 @@ sites:
     url: https://apps.atmosphere.copernicus.eu/zarr-globe
 
 status-website:
-  baseUrl: /uptime-dashboard
+  baseUrl: /uptime-cams
   name: CAMS Services Status Dashboard
   introTitle: "**Status Dashboard** "
   introMessage: This status page tracks the uptime and response times of selected CAMS apps and services. Powered by [Upptime](https://upptime.js.org) — GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
-      href: /uptime-dashboard/
+      href: /uptime-cams/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   # Pure CSS grouping via ::before on article elements inside section.live-status.
