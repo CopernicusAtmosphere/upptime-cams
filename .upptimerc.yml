@@ -24,13 +24,13 @@ sites:
   - name: Fire Watch (website)
     url: https://apps.atmosphere.copernicus.eu/fire-watch/
     headers:
-      - "Authorization: Basic $FIRE_WATCH_AUTH"
+      - "Authorization: Basic $CAMS_DEV_AUTH"
   - name: GFAS (API)
     url: "https://apps.atmosphere.copernicus.eu/gfas/api/api/anomalies/?variable=cfire&start_date=2026-01-01&end_date=2026-01-31&adm0=ALL&all_years=true&aggregation=SUM&timeout=120"
   - name: Methane Explorer (DEV)
     url: https://apps.copernicus-climate.eu/methane-explorer/
     headers:
-      - "Authorization: Basic $FIRE_WATCH_AUTH"
+      - "Authorization: Basic $CAMS_DEV_AUTH"
   - name: Zarr Globe (website)
     url: https://apps.atmosphere.copernicus.eu/zarr-globe
 
