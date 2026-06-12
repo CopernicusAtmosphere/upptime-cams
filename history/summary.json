@@ -103,11 +103,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/apps.atmosphere.copernicus.eu.ico",
     "slug": "gfas-api",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.34%",
+    "uptimeYear": "99.35%",
     "time": 1392,
     "timeDay": 1251,
     "timeWeek": 1415,
@@ -148,17 +148,19 @@
     "url": "https://apps.atmosphere.copernicus.eu/zarr-globe",
     "icon": "https://icons.duckduckgo.com/ip3/apps.atmosphere.copernicus.eu.ico",
     "slug": "zarr-globe-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 682,
-    "timeWeek": 886,
-    "timeMonth": 1073,
-    "timeYear": 614,
-    "dailyMinutesDown": {}
+    "time": 612,
+    "timeDay": 578,
+    "timeWeek": 835,
+    "timeMonth": 1054,
+    "timeYear": 612,
+    "dailyMinutesDown": {
+      "2026-06-12": 0
+    }
   }
 ]
